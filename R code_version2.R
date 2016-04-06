@@ -1,6 +1,5 @@
 # Social Media Analytics Using NLP
 
-# Testing the branch functionality
 #**Before executing the code please set your working directory
 #Eg: setwd("C:\Project\")
 #Place the given Negative and Positive words files in the Working directory
