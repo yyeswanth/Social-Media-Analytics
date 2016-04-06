@@ -1,7 +1,7 @@
-#Social Media Analytics Using NLP
+#Data Knights -- Social Media Analytics Using NLP
 
 #**Before executing the code please set your working directory
-#Eg: setwd("C:\Project\")
+#Eg: setwd("C:\Spring Semester\Data Analytics using R\Project\")
 #Place the given Negative and Positive words files in the Working directory
 
 #TwitteR package includes set of text analytics functions. In this project, this library
